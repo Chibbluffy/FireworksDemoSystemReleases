@@ -40,6 +40,8 @@ It will put the program into `edit products` mode and remove the assigned videos
     ![Add New Product](ManagerImages/AddProductButton.png)
     - Edit Row(s)
     ![Edit Product Data](ManagerImages/EditProductData1.png)
+    - When assigning videos, the already assigned videos do not show up anymore in the drop down
+    ![Video Drop down options](ManagerImages/VideoDropDown.png)
 
 4. Click `Done` when finished
 ![Done Button](ManagerImages/DoneButton.png)
