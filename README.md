@@ -11,3 +11,6 @@ The autoupdater will pull the raw files from this repo and update if the version
 `https://raw.githubusercontent.com/Chibbluffy/FireworksDemoSystemReleases/refs/heads/main/Player.exe`
 `https://raw.githubusercontent.com/Chibbluffy/FireworksDemoSystemReleases/refs/heads/main/Manager.exe`
 `https://raw.githubusercontent.com/Chibbluffy/FireworksDemoSystemReleases/refs/heads/main/AutoUpdate.exe`
+
+# Screenshots
+![](ManagerImages/UsingTagsFull.png)
